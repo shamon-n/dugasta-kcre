@@ -9,12 +9,8 @@ export default function Home() {
         {/* Left Section */}
         <div className="p-6 md:p-10 md:w-1/2 space-y-8 flex flex-col justify-center content-center order-2 md:order-1">
           <h1 className="text-3xl sm:text-4xl font-extrabold text-blue-900 justify-center content-center">
-            Your New Apartment in Dubai Awaits!
+            10% Guaranteed Net ROI For 10 Years With Zero Service Charges and 100% Buyback Option!
           </h1>
-          <p className="text-base sm:text-lg text-blue-600 font-medium">
-            The luxurious Sidr Residences in the prestigious district of Expo
-            City Dubai.
-          </p>
           <p className="text-sm sm:text-base text-gray-500 font-light">
             Fill in the form and our expert will contact you.
           </p>
