@@ -21,10 +21,10 @@ export default function Home() {
         <div className="relative md:w-1/2 flex justify-center items-center order-1 md:order-2">
           <div className="w-[95%] h-[95%] bg-gray-100 rounded-2xl overflow-hidden">
             <Image
-              src="https://dugasta-kcre.vercel.app/Dugasta_Image.jpeg"
+              src="https://drive.google.com/file/d/1qjpFHJ9kOiUJVkTtuhZAOhFzv47-2hQP"
               alt="Dugasta"
-              width={900}
-              height={900}
+              width={600}
+              height={600}
               style={{
                 width: "100%",
                 height: "100%",
