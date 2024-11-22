@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Sidr Residances - Expo City Dubai",
+  title: "Dugasta",
   description: "By Kingdom Capitol Real Estate",
 };
 
