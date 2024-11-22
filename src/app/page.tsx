@@ -21,8 +21,8 @@ export default function Home() {
         <div className="relative md:w-1/2 flex justify-center items-center order-1 md:order-2">
           <div className="w-[95%] h-[95%] bg-gray-100 rounded-2xl overflow-hidden">
             <Image
-              src="https://cdn.uae-flats.com/public/uploads/Whats_App_Image_2024_11_06_at_10_23_55_1_ab689e6784.jpeg"
-              alt="Sidr Residences"
+              src="/public/Dugasta_Image.jpeg"
+              alt="Dugasta"
               width={900}
               height={900}
               style={{
